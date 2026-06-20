@@ -1,0 +1,15 @@
+{
+  "definition": {
+    "out_in": "source out-degree versus target in-degree; NetworkX directed default",
+    "in_out": "source in-degree versus target out-degree",
+    "out_out": "source out-degree versus target out-degree",
+    "in_in": "source in-degree versus target in-degree"
+  },
+  "coefficients": {
+    "out_in": -0.1365859970223882,
+    "in_out": -0.0796040192371128,
+    "out_out": -0.11904805474494956,
+    "in_in": -0.09158931703488728,
+    "networkx_default": -0.1365859970223882
+  }
+}

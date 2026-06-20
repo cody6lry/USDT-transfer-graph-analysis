@@ -1,0 +1,27 @@
+{
+  "SCC": {
+    "nodes": 5790,
+    "share_of_all_nodes": 0.028687082885355715
+  },
+  "IN": {
+    "nodes": 43978,
+    "share_of_all_nodes": 0.2178930105582338
+  },
+  "OUT": {
+    "nodes": 46774,
+    "share_of_all_nodes": 0.2317460474748926
+  },
+  "Tendrils_and_tubes": {
+    "nodes": 38998,
+    "share_of_all_nodes": 0.19321914652212474
+  },
+  "Disconnected": {
+    "nodes": 66293,
+    "share_of_all_nodes": 0.3284547125593932
+  },
+  "validation": {
+    "classified_nodes": 201833,
+    "all_graph_nodes": 201833,
+    "classification_complete": true
+  }
+}

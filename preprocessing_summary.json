@@ -1,0 +1,11 @@
+{
+  "raw_input_rows": 297600,
+  "invalid_core_rows_removed": 0,
+  "duplicate_event_rows_removed": 0,
+  "rows_in_utc_period_after_dedup": 297600,
+  "zero_or_negative_rows": 18535,
+  "self_transfer_rows": 133,
+  "success_status_available": false,
+  "positive_success_events": 279065,
+  "graph_events_after_removing_self_transfers": 278941
+}
