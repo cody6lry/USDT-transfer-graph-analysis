@@ -102,15 +102,14 @@ export ETHERSCAN_API_KEY="YOUR_KEY"
 
 Run the scripts in the following order:
 
-```bash
-python src/01_generate_sensitivity_samples.py
-python src/02_preprocess_transactions.py
-python src/03_concentration_analysis.py
-python src/04_graph_analysis.py
-python src/05_robustness_experiment_deterministic.py
-python src/07_analyze_sampling_sensitivity.py
-python src/plot_robustness_figures.py
-```
+python 01_download_usdt_complete.py
+python 02_preprocess_transactions.py
+python 03_concentration_analysis.py
+python 04_graph_analysis.py
+python 05_robustness_experiment_deterministic.py
+python analyze_seed_sensitivity.py
+python plot_robustness_figures_fixed.py
+
 
 ## Notes
 
